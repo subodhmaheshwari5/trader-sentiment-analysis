@@ -1,3 +1,7 @@
+## Tech Stack
+
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
 # Trader Behavior vs Market Sentiment Analysis
 
 ## Objective
